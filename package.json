@@ -1,0 +1,15 @@
+{
+  "name": "ransom.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLINCENSED",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "uniqid": "^5.2.0"
+  }
+}
